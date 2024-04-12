@@ -1,0 +1,18 @@
+@media screen and (max-width:375px) {
+    .caixa{
+        width: 320px;
+
+    }
+
+img{
+    width: 280px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+p{
+    font-size: 12px;
+}
+}
